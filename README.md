@@ -14,3 +14,7 @@ Computer Programming **Labsheets**
 - [Labsheet#2](https://github.com/KhCE/C/blob/master/Labsheet_2.pdf)
 - [Labsheet#3](https://github.com/KhCE/C/blob/master/Labsheet_3.pdf)
 - [Labsheet#4](https://github.com/KhCE/C/blob/master/Labsheet_4.pdf)
+
+**Miscellaneous**
+- [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
+- [C06: Types of Function](https://github.com/KhCE/C/blob/master/Type_of_Functions.pdf)
