@@ -17,4 +17,5 @@ Computer Programming **Labsheets**
 
 **Miscellaneous**
 - [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
-- [C06: Types of Function](https://github.com/KhCE/C/blob/master/Type_of_Functions.pdf)
+- [C06: Category of Function](https://github.com/KhCE/C/blob/master/Type_of_Functions.pdf)
+- [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
