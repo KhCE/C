@@ -5,7 +5,7 @@ Computer Programming **Notes**
 - Chapter 3: [Introduction to C Programming](https://github.com/KhCE/C/blob/master/Chapter_03_Introduction_to_C_Programming.pdf)
 - Chapter 4: [Input and Output]()
 - Chapter 5: [Control Statements](https://github.com/KhCE/C/blob/master/Chapter_05_Control_Statements.pdf)
-- Chapter 6: [Input and Output](https://github.com/KhCE/C/blob/master/Chapter_06_User_Defined_Functions.pdf)
+- Chapter 6: [User-Defined Functions](https://github.com/KhCE/C/blob/master/Chapter_06_User_Defined_Functions.pdf)
 
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
