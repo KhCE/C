@@ -17,6 +17,9 @@ Computer Programming **Labsheets**
 - [Labsheet#3](https://github.com/KhCE/C/blob/master/Labsheet_3.pdf)
 - [Labsheet#4](https://github.com/KhCE/C/blob/master/Labsheet_4.pdf)
 
+**Mini-Project**
+- [Project Name & Team Member](https://github.com/KhCE/C/blob/master/Mini_Project_Team.pdf)
+
 **Miscellaneous**
 - [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
 - [Cpt6: Category of Function](https://github.com/KhCE/C/blob/master/Type_of_Functions.pdf)
