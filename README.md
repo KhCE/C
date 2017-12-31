@@ -27,3 +27,4 @@ Computer Programming **Labsheets**
 - [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
 - [Chapter 6 (Contd...): Category of Function](https://github.com/KhCE/C/blob/master/Category_of_Functions.pdf)
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
+- [Mini-Project Proposal Defense Date & Team Detail](https://github.com/KhCE/C/blob/master/Mini_Project_Proposal_Defense_Date.pdf)
