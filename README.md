@@ -10,6 +10,7 @@ Computer Programming **Notes**
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
 - [Tutorial#2](https://github.com/KhCE/C/blob/master/Tutorial_2.pdf)
+- [Tutorial#3](https://github.com/KhCE/C/blob/master/Tutorial_3.pdf)
 
 Computer Programming **Labsheets**
 - [Labsheet#1](https://github.com/KhCE/C/blob/master/Labsheet_1.pdf)
