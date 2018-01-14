@@ -21,6 +21,7 @@ Computer Programming **Labsheets**
 - [Labsheet#5](https://github.com/KhCE/C/blob/master/Labsheet_5.pdf)
 - [Labsheet#6](https://github.com/KhCE/C/blob/master/Labsheet_6.pdf)
 - [Labsheet#7](https://github.com/KhCE/C/blob/master/Labsheet_7.pdf)
+- [Labsheet#8](https://github.com/KhCE/C/blob/master/Labsheet_8.pdf)
 
 **Mini-Project**
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
