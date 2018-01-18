@@ -7,6 +7,7 @@ Computer Programming **Notes**
 - Chapter 5: [Control Statements](https://github.com/KhCE/C/blob/master/Chapter_05_Control_Statements.pdf)
 - Chapter 6: [User-Defined Functions](https://github.com/KhCE/C/blob/master/Chapter_06_User_Defined_Functions.pdf)
 - Chapter 7: [Arrays and Strings](https://github.com/KhCE/C/blob/master/Chapter_07_Arrays_and_Strings.pdf)
+- Chapter 7: [Structures](https://github.com/KhCE/C/blob/master/Chapter_08_Structures.pdf)
 
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
