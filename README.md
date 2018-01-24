@@ -33,3 +33,4 @@ Computer Programming **Labsheets**
 **Miscellaneous**
 - [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
 - [Chapter 6 (Contd...): Category of Function](https://github.com/KhCE/C/blob/master/Category_of_Functions.pdf)
+- [UT Tesult](https://drive.google.com/file/d/1M7vOT8f8xvQEQTrKcd44YkEEHhRGlEIX/view?usp=sharing)
