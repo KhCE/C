@@ -8,6 +8,7 @@ Computer Programming **Notes**
 - Chapter 6: [User-Defined Functions](https://github.com/KhCE/C/blob/master/Chapter_06_User_Defined_Functions.pdf)
 - Chapter 7: [Arrays and Strings](https://github.com/KhCE/C/blob/master/Chapter_07_Arrays_and_Strings.pdf)
 - Chapter 8: [Structures](https://github.com/KhCE/C/blob/master/Chapter_08_Structures.pdf)
+- Chapter 9: [Pointers](https://github.com/KhCE/C/blob/master/Chapter_09_Pointers.pdf)
 
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
@@ -23,6 +24,7 @@ Computer Programming **Labsheets**
 - [Labsheet#6](https://github.com/KhCE/C/blob/master/Labsheet_6.pdf)
 - [Labsheet#7](https://github.com/KhCE/C/blob/master/Labsheet_7.pdf)
 - [Labsheet#8](https://github.com/KhCE/C/blob/master/Labsheet_8.pdf)
+- [Labsheet#9](https://github.com/KhCE/C/blob/master/Labsheet_9.pdf)
 
 **Mini-Project**
 - [Project Proposal Format](https://drive.google.com/file/d/11KNobMxoK8ZKB7KVQtDs2XODqlxrJpbb/view?usp=sharing)
