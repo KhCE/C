@@ -9,6 +9,7 @@ Computer Programming **Notes**
 - Chapter 7: [Arrays and Strings](https://github.com/KhCE/C/blob/master/Chapter_07_Arrays_and_Strings.pdf)
 - Chapter 8: [Structures](https://github.com/KhCE/C/blob/master/Chapter_08_Structures.pdf)
 - Chapter 9: [Pointers](https://github.com/KhCE/C/blob/master/Chapter_09_Pointers.pdf)
+- Chapter 10: [Data Files]()
 
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
@@ -38,4 +39,6 @@ Computer Programming **Labsheets**
 - [UT Tesult](https://drive.google.com/file/d/1M7vOT8f8xvQEQTrKcd44YkEEHhRGlEIX/view?usp=sharing)
 - [Pre/Post Operations](https://github.com/KhCE/C/blob/master/PrePost_Operations.pdf)
 - [C Language Video Tutorials - Mr. Srinivas](https://www.youtube.com/watch?v=si-KFFOW2gw&list=PLVlQHNRLflP8IGz6OXwlV_lgHgc72aXlh)
-- [Online Compiler](https://www.tutorialspoint.com/compile_c_online.php)
+- [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
+- [FORTAN Compiler](https://github.com/KhCE/C/blob/master/FORTAN_COMPILER_force209g77.zip)
+- [Data Files Program Questions](https://github.com/KhCE/C/blob/master/QB10_Data_Files_Questions.pdf)
