@@ -9,7 +9,7 @@ Computer Programming **Notes**
 - Chapter 7: [Arrays and Strings](https://github.com/KhCE/C/blob/master/Chapter_07_Arrays_and_Strings.pdf)
 - Chapter 8: [Structures](https://github.com/KhCE/C/blob/master/Chapter_08_Structures.pdf)
 - Chapter 9: [Pointers](https://github.com/KhCE/C/blob/master/Chapter_09_Pointers.pdf)
-- Chapter 10: [Data Files]()
+- Chapter 10: [Data Files](https://github.com/KhCE/C/blob/master/Chapter_10_Data_Files.pdf)
 
 Computer Programming **Tutorials**
 - [Tutorial#1](https://github.com/KhCE/C/blob/master/Tutorial_1.pdf)
