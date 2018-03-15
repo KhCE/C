@@ -33,6 +33,7 @@ Computer Programming **Labsheets**
 - [Mini-Project Proposal Defense Date & Team Detail](https://github.com/KhCE/C/blob/master/Mini_Project_Proposal_Defense_Date.pdf)
 - [Project Name & Team Member](https://github.com/KhCE/C/blob/master/Mini_Project_Team.pdf)
 - [Mini-Project Proposal Defense - Marks](https://github.com/KhCE/C/blob/master/Mini_Project_Proposal_Defense_Marks.pdf)
+- [Project Report Format](https://drive.google.com/file/d/1EdgNBNvSogAdGpSETENOCaqPf_zmEEuv/view?usp=sharing)
 
 **Miscellaneous**
 - [C Programming Question Bank](https://github.com/KhCE/C/blob/master/C_Programming_Bank.pdf)
