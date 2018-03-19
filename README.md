@@ -44,3 +44,4 @@ Computer Programming **Labsheets**
 - [Online C Compiler](https://www.tutorialspoint.com/compile_c_online.php)
 - [FORTAN Compiler](https://github.com/KhCE/C/blob/master/FORTAN_COMPILER_force209g77.zip)
 - [Data Files Program Questions](https://github.com/KhCE/C/blob/master/QB10_Data_Files_Questions.pdf)
+- [Final Internal Marks of C-Programming](https://github.com/KhCE/C/blob/master/C_Final_Marks_2074.pdf)
